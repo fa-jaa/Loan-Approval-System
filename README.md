@@ -11,7 +11,7 @@ A Streamlit-based web application that helps account managers interpret loan app
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.9.13 or higher
 - pip (Python package installer)
 
 ## Installation
