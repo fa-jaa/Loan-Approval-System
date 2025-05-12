@@ -4,7 +4,7 @@ A Streamlit-based web application that helps account managers interpret loan app
 
 ## Features
 
-- **Interactive Risk Assessment**: Upload model and dataset files or use the default ones to analyze loan applications
+- **Interactive Risk Assessment**: Enter applicant details using the provided input options to receive predictions and recommendations on loan approval or rejection, based on historical data.
 - **Explainable AI Integration**: Uses SHAP (SHapley Additive exPlanations) to provide transparent risk factor analysis
 - **Modern UI**: Clean, intuitive interface with real-time feedback
 - **Decision Support**: Clear visualization of risk factors and their impact on the final decision
